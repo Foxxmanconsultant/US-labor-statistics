@@ -7,3 +7,5 @@
 >> **Understand Industry-Specific Employment Shares:** See the proportional distribution of employees across industries (represented by the "Total Employee Share" donut chart).
 >> **Track Wage & Employment Trends Over Time:** Observe year-over-year changes in average annual wages and total employment figures from 2017 to 2020.
 >> **Geographical Insights:**  Explore the distribution of average wages and employees per 1000 capita across US states using a choropleth map.
+3. Screenshot
+>> See what the dashboard looks like: https://github.com/Foxxmanconsultant/US-labor-statistics/blob/main/US%20Salary%20%26%20Employment.png
